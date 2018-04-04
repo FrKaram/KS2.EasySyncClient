@@ -25,3 +25,5 @@ The software is using :
 4 - Select the site you want to synchronize<br/>
 5 - Select the local folder on your workstation where to synchonize<br/>
 6 - That's it ! You're syncing !
+
+NOTE : Current source needs refactoring / merging. Project is not building as-is. Compiled version can be requested at : assistance@ks2.fr
