@@ -26,4 +26,4 @@ The software is using :
 5 - Select the local folder on your workstation where to synchonize<br/>
 6 - That's it ! You're syncing !
 
-NOTE : Current source needs refactoring / merging. Project is not building as-is. Compiled version can be requested at : assistance@ks2.fr
+Update 2020-03-03  : Merging both community version and regular version into one source. Will be posted soon in the repo
